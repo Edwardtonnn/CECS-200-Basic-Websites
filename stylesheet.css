@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color:#333333;
+}
+header{
+	color:	 #8c8c8c;
+	font-weight:600;
+	text-align:center;
+	font-size:150px;}
+a {
+	 
+	margin-top:80px;  
+}
+h2{
+	color:white;
+	text-align:center;
+	font-size:75px;
+	}
+
+
+h3, h4 {
+	color:white;
+	text-align:center;
+		}
+h3{
+	font-weight:light;
+}
+h4 {
+	font-weight:bold;
+}
+h5 {
+	color:white;
+	text-align:center;
+	margin-top:175px;}
+.container{
+	align-self:auto;
+	}
+.btn-group{
+	margin-left:425px;
+
+		}
+
+
+
+/*old CSS
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1D2326;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #6A6A61;
+}
+
+.active {
+    background-color: #611427;
+}
+
+*/
